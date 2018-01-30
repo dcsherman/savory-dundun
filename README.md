@@ -1,0 +1,1 @@
+Connects to API for weather report (temp) via ZIP code

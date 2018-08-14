@@ -1,1 +1,1 @@
-Connects to API for weather report (temp) via ZIP code
+building boilerplate code for a javascript web app

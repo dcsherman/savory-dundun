@@ -34,7 +34,6 @@ require([
 	'use strict';
 	
 	App.initialize();
-	App.displayTime();
 	console.log(App); 
 	
 });

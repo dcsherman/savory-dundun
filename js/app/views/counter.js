@@ -21,7 +21,7 @@ define([
 		
 		render: function() {
 			var html = '<h3>This view has been <span>clicked</span> ' + this.count + ' times.<strong>REMOVE</strong></h3>';
-			this.$el.html(html);
+			this$el.html(html);
 			return this;
 		},
 		
